@@ -1,0 +1,15 @@
+{
+  "url": "https://www.imdb.com/chart/top/",
+  "title": "IMDb Top 250 Movies",
+  "status_code": 200,
+  "crawl_time": "2025-04-05T20:04:52.532453",
+  "content_summary": "![](https://fls-na.amazon.com/1/batch/1/OP/A1EVAM02EL8SFB:140-0394134-5444209:K43SP4Y96JACBZA6XWN9$uedata=s:%2Fuedata%2Fuedata%3Fstaticb%26id%3DK43SP4Y96JACBZA6XWN9:0)\n[](https://www.imdb.com/?ref_=nv_home)\nMenu\n[](https://www.imdb.com/?ref_=nv_home)\nMovies\n[Release Calendar](https://www.imdb.com/calendar/?ref_=nv_mv_cal)[Top 250 Movies](https://www.imdb.com/chart/top/?ref_=nv_mv_250)[Most Popular Movies](https://www.imdb.com/chart/moviemeter/?ref_=nv_mv_mpm)[Browse Movies by Genre](https://www.",
+  "link_count": {
+    "internal": 581,
+    "external": 16
+  },
+  "media_count": {
+    "images": 3022,
+    "videos": 0
+  }
+}
