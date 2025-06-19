@@ -1,5 +1,10 @@
 # Universal-Scapper
 
+
+https://github.com/user-attachments/assets/27bee31c-59b8-4c3d-a846-e08651a1e1e6
+
+
+
 ## 1. Create a virtual environment
 python -m venv venv
 
